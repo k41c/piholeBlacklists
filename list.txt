@@ -1,6 +1,7 @@
 
 #black
-
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #adAway
-
-#
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+#energized
+https://block.energized.pro/ultimate/formats/hosts
